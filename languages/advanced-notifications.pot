@@ -1,0 +1,1115 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-08-24 14:31+0300\n"
+"PO-Revision-Date: 2018-11-22 10:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_lf\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugins\n"
+"X-Poedit-SearchPathExcluded-1: includes/an-functions-pro.php\n"
+"X-Poedit-SearchPathExcluded-2: includes/an-interface-api-pro.php\n"
+"X-Poedit-SearchPathExcluded-3: plugins/plugin-update-checker\n"
+"X-Poedit-SearchPathExcluded-4: assets/eis\n"
+
+#: includes/an-animations.php:20
+msgid "Fede In"
+msgstr ""
+
+#: includes/an-animations.php:21
+msgid "Fede In Left"
+msgstr ""
+
+#: includes/an-animations.php:22
+msgid "Fede In Right"
+msgstr ""
+
+#: includes/an-animations.php:23
+msgid "Fede In Up"
+msgstr ""
+
+#: includes/an-animations.php:24
+msgid "Fede In Down"
+msgstr ""
+
+#: includes/an-animations.php:25
+msgid "Bounce In"
+msgstr ""
+
+#: includes/an-animations.php:26
+msgid "Bounce In Left"
+msgstr ""
+
+#: includes/an-animations.php:27
+msgid "Bounce In Right"
+msgstr ""
+
+#: includes/an-animations.php:28
+msgid "Bounce In Up"
+msgstr ""
+
+#: includes/an-animations.php:29
+msgid "Bounce In Down"
+msgstr ""
+
+#: includes/an-animations.php:30
+msgid "Slide In Left"
+msgstr ""
+
+#: includes/an-animations.php:31
+msgid "Slide In Right"
+msgstr ""
+
+#: includes/an-animations.php:32
+msgid "Slide In Up"
+msgstr ""
+
+#: includes/an-animations.php:33
+msgid "Slide In Down"
+msgstr ""
+
+#: includes/an-animations.php:34
+msgid "Vertical Flip In"
+msgstr ""
+
+#: includes/an-animations.php:35
+msgid "Unfold Down In"
+msgstr ""
+
+#: includes/an-animations.php:36
+msgid "Netflix Notice In"
+msgstr ""
+
+#: includes/an-animations.php:36 includes/an-animations.php:51
+#: includes/an-designs.php:123 includes/an-designs.php:127
+#: includes/an-functions.php:369 includes/an-interface-api.php:74
+#: includes/an-interface-api.php:127 includes/an-interface-api.php:128
+#: includes/an-interface-api.php:139 includes/an-interface-api.php:1216
+#: includes/an-interface-api.php:1224 includes/an-interface-api.php:1465
+#: includes/an-locations.php:148 includes/an-locations.php:152
+#: includes/an-locations.php:156 includes/an-locations.php:160
+#: includes/an-locations.php:164
+msgid "PRO"
+msgstr ""
+
+#: includes/an-animations.php:42
+msgid "Fede Out"
+msgstr ""
+
+#: includes/an-animations.php:43
+msgid "Fede Out Left"
+msgstr ""
+
+#: includes/an-animations.php:44
+msgid "Fede Out Right"
+msgstr ""
+
+#: includes/an-animations.php:45
+msgid "Fede Out Up"
+msgstr ""
+
+#: includes/an-animations.php:46
+msgid "Fede Out Down"
+msgstr ""
+
+#: includes/an-animations.php:47
+msgid "Slide Out Left"
+msgstr ""
+
+#: includes/an-animations.php:48
+msgid "Slide Out Right"
+msgstr ""
+
+#: includes/an-animations.php:49
+msgid "Slide Out Up"
+msgstr ""
+
+#: includes/an-animations.php:50
+msgid "Slide Out Down"
+msgstr ""
+
+#: includes/an-animations.php:51
+msgid "Netflix Notice Out"
+msgstr ""
+
+#: includes/an-api-pro.php:27
+msgid "Product layout"
+msgstr ""
+
+#: includes/an-api-pro.php:67
+msgid "More info"
+msgstr ""
+
+#: includes/an-api.php:26 includes/an-functions.php:122
+msgid "Notification"
+msgstr ""
+
+#: includes/an-api.php:106 includes/an-cpt.php:149
+#: includes/an-interface-api.php:237
+msgid "Location"
+msgstr ""
+
+#: includes/an-api.php:160 includes/an-interface-api.php:294
+#: includes/an-interface-api.php:604
+msgid "Design"
+msgstr ""
+
+#: includes/an-api.php:230 includes/an-interface-api.php:1004
+#: includes/an-interface-api.php:1005
+msgid "Close"
+msgstr ""
+
+#: includes/an-core.php:192
+msgid "A notification settings"
+msgstr ""
+
+#: includes/an-core.php:205
+msgid "Turn off all notification for this page"
+msgstr ""
+
+#: includes/an-core.php:208
+msgid "Select notifications to display on this page"
+msgstr ""
+
+#: includes/an-cpt.php:13 includes/an-cpt.php:15 includes/an-cpt.php:16
+msgid "A Notifications"
+msgstr ""
+
+#: includes/an-cpt.php:14 includes/an-cpt.php:22
+msgid "Notifications"
+msgstr ""
+
+#: includes/an-cpt.php:17 includes/an-cpt.php:18 includes/an-designs.php:56
+#: includes/an-locations.php:56 includes/an-triggers.php:57
+msgid "Add New"
+msgstr ""
+
+#: includes/an-cpt.php:19 includes/an-designs.php:57
+#: includes/an-locations.php:57 includes/an-triggers.php:58
+msgid "New Item"
+msgstr ""
+
+#: includes/an-cpt.php:20 includes/an-designs.php:58
+#: includes/an-locations.php:58 includes/an-triggers.php:59
+msgid "Edit Item"
+msgstr ""
+
+#: includes/an-cpt.php:21 includes/an-designs.php:59
+#: includes/an-locations.php:59 includes/an-triggers.php:60
+msgid "View Item"
+msgstr ""
+
+#: includes/an-cpt.php:23 includes/an-designs.php:61
+#: includes/an-locations.php:61 includes/an-triggers.php:62
+msgid "Search"
+msgstr ""
+
+#: includes/an-cpt.php:24 includes/an-designs.php:62
+#: includes/an-locations.php:62 includes/an-triggers.php:63
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/an-cpt.php:25 includes/an-designs.php:63
+#: includes/an-locations.php:63 includes/an-triggers.php:64
+msgid "No Items found."
+msgstr ""
+
+#: includes/an-cpt.php:26 includes/an-designs.php:64
+#: includes/an-locations.php:64 includes/an-triggers.php:65
+msgid "No Items found in Trash."
+msgstr ""
+
+#: includes/an-cpt.php:29 includes/an-cpt.php:30
+msgid "A notifications items"
+msgstr ""
+
+#: includes/an-cpt.php:87
+msgid "Active"
+msgstr ""
+
+#: includes/an-cpt.php:88
+msgid "Published in"
+msgstr ""
+
+#: includes/an-cpt.php:89 includes/an-interface-api.php:227
+msgid "Devices"
+msgstr ""
+
+#: includes/an-cpt.php:90 includes/an-interface-api.php:114
+msgid "Display"
+msgstr ""
+
+#: includes/an-cpt.php:91 includes/an-interface-api.php:116
+msgid "Rules"
+msgstr ""
+
+#: includes/an-cpt.php:106
+msgid "Saved"
+msgstr ""
+
+#: includes/an-cpt.php:152 includes/an-designs.php:25
+msgid "Designs"
+msgstr ""
+
+#: includes/an-cpt.php:155
+msgid "No delay"
+msgstr ""
+
+#: includes/an-cpt.php:157 includes/an-cpt.php:164
+msgid "seconds"
+msgstr ""
+
+#: includes/an-cpt.php:159
+msgid "Delay"
+msgstr ""
+
+#: includes/an-cpt.php:162
+msgid "Always"
+msgstr ""
+
+#: includes/an-cpt.php:166
+msgid "Show Time"
+msgstr ""
+
+#: includes/an-cpt.php:174
+msgid "Close limit"
+msgstr ""
+
+#: includes/an-cpt.php:179
+msgid "Every "
+msgstr ""
+
+#: includes/an-cpt.php:179
+msgid "times"
+msgstr ""
+
+#: includes/an-cpt.php:180
+msgid "for "
+msgstr ""
+
+#: includes/an-cpt.php:182
+msgid "Shows limit"
+msgstr ""
+
+#: includes/an-cpt.php:190
+msgid "Duplicate this item"
+msgstr ""
+
+#: includes/an-cpt.php:190
+msgid "Duplicate"
+msgstr ""
+
+#: includes/an-cpt.php:210
+msgid "No post to duplicate has been supplied!"
+msgstr ""
+
+#: includes/an-cpt.php:221
+msgid "copy"
+msgstr ""
+
+#: includes/an-cpt.php:244
+msgid "Post creation failed, could not find original post"
+msgstr ""
+
+#: includes/an-cpt.php:268 includes/an-cpt.php:271
+msgid "Notification updated."
+msgstr ""
+
+#: includes/an-cpt.php:268 includes/an-cpt.php:274
+msgid "View Notification"
+msgstr ""
+
+#: includes/an-cpt.php:269
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/an-cpt.php:270
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/an-cpt.php:273
+#, php-format
+msgid "Notification restored to revision from %s"
+msgstr ""
+
+#: includes/an-cpt.php:274
+msgid "Notification published."
+msgstr ""
+
+#: includes/an-cpt.php:275
+msgid "Notification saved."
+msgstr ""
+
+#: includes/an-cpt.php:276
+msgid "Notification submitted."
+msgstr ""
+
+#: includes/an-cpt.php:282
+msgid "Notification draft updated."
+msgstr ""
+
+#: includes/an-designs.php:51
+msgid "AN Designs"
+msgstr ""
+
+#: includes/an-designs.php:60 includes/an-designs.php:67
+#: includes/an-designs.php:68
+msgid "AN Designs items"
+msgstr ""
+
+#: includes/an-designs.php:103
+msgid "Default"
+msgstr ""
+
+#: includes/an-designs.php:107
+msgid "Success"
+msgstr ""
+
+#: includes/an-designs.php:111
+msgid "Info"
+msgstr ""
+
+#: includes/an-designs.php:115
+msgid "Warning"
+msgstr ""
+
+#: includes/an-designs.php:119
+msgid "Danger"
+msgstr ""
+
+#: includes/an-designs.php:123
+msgid "Netflix Notice"
+msgstr ""
+
+#: includes/an-designs.php:127
+msgid "Facebook Notice"
+msgstr ""
+
+#: includes/an-functions.php:72
+msgid "BuddyPress user main page"
+msgstr ""
+
+#: includes/an-functions.php:73
+msgid "BuddyPress activities"
+msgstr ""
+
+#: includes/an-functions.php:74
+msgid "BuddyPress members"
+msgstr ""
+
+#: includes/an-functions.php:75
+msgid "BuddyPress profile"
+msgstr ""
+
+#: includes/an-functions.php:84
+msgid "Category"
+msgstr ""
+
+#: includes/an-functions.php:85
+msgid "Post tags"
+msgstr ""
+
+#: includes/an-functions.php:86
+msgid "Product category"
+msgstr ""
+
+#: includes/an-functions.php:87
+msgid "Product tags"
+msgstr ""
+
+#: includes/an-functions.php:349
+msgid "All"
+msgstr ""
+
+#: includes/an-functions.php:350 includes/an-interface-api.php:815
+msgid "Custom"
+msgstr ""
+
+#: includes/an-functions.php:351
+msgid "Only on specific pages"
+msgstr ""
+
+#: includes/an-functions.php:357
+msgid "All devices"
+msgstr ""
+
+#: includes/an-functions.php:358 includes/an-interface-api.php:915
+#: includes/an-interface-api.php:1116 includes/an-interface-api.php:1393
+msgid "Desktop"
+msgstr ""
+
+#: includes/an-functions.php:359
+msgid "Desktop & Tablet"
+msgstr ""
+
+#: includes/an-functions.php:360 includes/an-interface-api.php:925
+#: includes/an-interface-api.php:1126 includes/an-interface-api.php:1403
+msgid "Tablet"
+msgstr ""
+
+#: includes/an-functions.php:361
+msgid "Only Tablet & Mobile"
+msgstr ""
+
+#: includes/an-functions.php:362 includes/an-interface-api.php:935
+#: includes/an-interface-api.php:1136 includes/an-interface-api.php:1413
+msgid "Mobile"
+msgstr ""
+
+#: includes/an-functions.php:368
+msgid "Page is loaded and in trigers"
+msgstr ""
+
+#: includes/an-functions.php:369
+msgid "Only in trigers"
+msgstr ""
+
+#: includes/an-functions.php:375
+msgid "Editor"
+msgstr ""
+
+#: includes/an-functions.php:376
+msgid "HTML"
+msgstr ""
+
+#: includes/an-functions.php:377
+msgid "Image"
+msgstr ""
+
+#: includes/an-functions.php:383
+msgid "On click"
+msgstr ""
+
+#: includes/an-functions.php:384
+msgid "On hover"
+msgstr ""
+
+#: includes/an-functions.php:486
+msgid "All visitors"
+msgstr ""
+
+#: includes/an-functions.php:487
+msgid "Logged users"
+msgstr ""
+
+#: includes/an-functions.php:488
+msgid "Only guests"
+msgstr ""
+
+#: includes/an-interface-api.php:13 includes/an-interface-api.php:14
+msgid "Settings"
+msgstr ""
+
+#: includes/an-interface-api.php:25
+msgid "Notification settings"
+msgstr ""
+
+#: includes/an-interface-api.php:34
+msgid "Designs settings"
+msgstr ""
+
+#: includes/an-interface-api.php:43
+msgid "Triggers settings"
+msgstr ""
+
+#: includes/an-interface-api.php:52 includes/an-interface-api.php:1211
+msgid "Location settings"
+msgstr ""
+
+#: includes/an-interface-api.php:62
+msgid "Layout"
+msgstr ""
+
+#: includes/an-interface-api.php:64 includes/an-interface-api.php:70
+#: includes/an-interface-api.php:74
+msgid "Yes"
+msgstr ""
+
+#: includes/an-interface-api.php:65 includes/an-interface-api.php:69
+#: includes/an-interface-api.php:73
+msgid "No"
+msgstr ""
+
+#: includes/an-interface-api.php:95
+msgid "Mobile Breakpoint (px)"
+msgstr ""
+
+#: includes/an-interface-api.php:106
+msgid "Tablet Breakpoint (px)"
+msgstr ""
+
+#: includes/an-interface-api.php:113
+msgid "General"
+msgstr ""
+
+#: includes/an-interface-api.php:115
+msgid "Publish"
+msgstr ""
+
+#: includes/an-interface-api.php:119
+msgid "px"
+msgstr ""
+
+#: includes/an-interface-api.php:120
+msgid "%"
+msgstr ""
+
+#: includes/an-interface-api.php:127
+msgid "Elementor"
+msgstr ""
+
+#: includes/an-interface-api.php:128
+msgid "Product"
+msgstr ""
+
+#: includes/an-interface-api.php:147 includes/an-single.php:29
+msgid "Notification status"
+msgstr ""
+
+#: includes/an-interface-api.php:148
+msgid "Enable / disable the notification, if checked the notification is active"
+msgstr ""
+
+#: includes/an-interface-api.php:157
+msgid "Notification type"
+msgstr ""
+
+#: includes/an-interface-api.php:167
+msgid "Notification html"
+msgstr ""
+
+#: includes/an-interface-api.php:179
+msgid "Notification image"
+msgstr ""
+
+#: includes/an-interface-api.php:191
+msgid "Who can see?"
+msgstr ""
+
+#: includes/an-interface-api.php:201
+msgid "Scheduled notification"
+msgstr ""
+
+#: includes/an-interface-api.php:250 includes/an-interface-api.php:261
+#: includes/an-interface-api.php:272 includes/an-interface-api.php:283
+msgid "Location preview"
+msgstr ""
+
+#: includes/an-interface-api.php:251 includes/an-interface-api.php:262
+#: includes/an-interface-api.php:273 includes/an-interface-api.php:284
+msgid "width"
+msgstr ""
+
+#: includes/an-interface-api.php:307
+msgid "CSS Class"
+msgstr ""
+
+#: includes/an-interface-api.php:316
+msgid "Show when"
+msgstr ""
+
+#: includes/an-interface-api.php:317
+msgid "The notification will be displayed after the page is loaded or in the defined triggers"
+msgstr ""
+
+#: includes/an-interface-api.php:328
+msgid "Delay before show"
+msgstr ""
+
+#: includes/an-interface-api.php:329
+msgid "The time it takes the notification to appear after the page is loaded (seconds)"
+msgstr ""
+
+#: includes/an-interface-api.php:341
+msgid "Show time"
+msgstr ""
+
+#: includes/an-interface-api.php:342
+msgid "The duration of the notification will appear in seconds"
+msgstr ""
+
+#: includes/an-interface-api.php:351
+msgid "Animation In"
+msgstr ""
+
+#: includes/an-interface-api.php:365
+msgid "Animation In duration"
+msgstr ""
+
+#: includes/an-interface-api.php:366 includes/an-interface-api.php:390
+msgid "The duration of the Animation will appear in seconds"
+msgstr ""
+
+#: includes/an-interface-api.php:375
+msgid "Animation Out"
+msgstr ""
+
+#: includes/an-interface-api.php:389
+msgid "Animation Out duration"
+msgstr ""
+
+#: includes/an-interface-api.php:408 includes/an-interface-api.php:424
+msgid "Select all"
+msgstr ""
+
+#: includes/an-interface-api.php:408 includes/an-interface-api.php:424
+msgid "Remove all"
+msgstr ""
+
+#: includes/an-interface-api.php:437
+msgid "Front Page (Home)"
+msgstr ""
+
+#: includes/an-interface-api.php:444
+msgid "Posts Page (Blog)"
+msgstr ""
+
+#: includes/an-interface-api.php:457
+msgid "Publish type"
+msgstr ""
+
+#: includes/an-interface-api.php:468
+msgid "Post types pages"
+msgstr ""
+
+#: includes/an-interface-api.php:480
+msgid "Taxonomies pages"
+msgstr ""
+
+#: includes/an-interface-api.php:492
+msgid "Specific pages"
+msgstr ""
+
+#: includes/an-interface-api.php:495
+msgid "You can choose any page, post or post type for this notification. Go to edit the page or post and check the notification under the box \"A notification settings\"."
+msgstr ""
+
+#: includes/an-interface-api.php:502 includes/an-interface-api.php:506
+#: includes/an-interface-api.php:1432
+msgid "None"
+msgstr ""
+
+#: includes/an-interface-api.php:503 includes/an-interface-api.php:558
+msgid "Cancel for"
+msgstr ""
+
+#: includes/an-interface-api.php:507
+msgid "Custom limitations"
+msgstr ""
+
+#: includes/an-interface-api.php:511
+msgid "Days"
+msgstr ""
+
+#: includes/an-interface-api.php:512
+msgid "Hours"
+msgstr ""
+
+#: includes/an-interface-api.php:513
+msgid "Minutes"
+msgstr ""
+
+#: includes/an-interface-api.php:547
+msgid "On click close button"
+msgstr ""
+
+#: includes/an-interface-api.php:570
+msgid "Limitations"
+msgstr ""
+
+#: includes/an-interface-api.php:582
+msgid "Several times to limit"
+msgstr ""
+
+#: includes/an-interface-api.php:583
+msgid "Choose how many times the notification will appear before limit"
+msgstr ""
+
+#: includes/an-interface-api.php:594
+msgid "Limit for"
+msgstr ""
+
+#: includes/an-interface-api.php:596
+msgid "Select the time that the notification will be canceled after reaching the number of times"
+msgstr ""
+
+#: includes/an-interface-api.php:605
+msgid "Close button"
+msgstr ""
+
+#: includes/an-interface-api.php:607
+msgid "Auto"
+msgstr ""
+
+#: includes/an-interface-api.php:608
+msgid "Full"
+msgstr ""
+
+#: includes/an-interface-api.php:609
+msgid "Cover"
+msgstr ""
+
+#: includes/an-interface-api.php:610
+msgid "Contain"
+msgstr ""
+
+#: includes/an-interface-api.php:613
+msgid "No repeat"
+msgstr ""
+
+#: includes/an-interface-api.php:614
+msgid "Repeat"
+msgstr ""
+
+#: includes/an-interface-api.php:700
+msgid "Font size"
+msgstr ""
+
+#: includes/an-interface-api.php:706
+msgid "Border"
+msgstr ""
+
+#: includes/an-interface-api.php:723
+msgid "Border radius"
+msgstr ""
+
+#: includes/an-interface-api.php:739
+msgid "Padding"
+msgstr ""
+
+#: includes/an-interface-api.php:755
+msgid "Margin"
+msgstr ""
+
+#: includes/an-interface-api.php:771 includes/an-interface-api.php:784
+msgid "An empty field will be defined from the desktop field"
+msgstr ""
+
+#: includes/an-interface-api.php:779
+msgid "Icon / Font size"
+msgstr ""
+
+#: includes/an-interface-api.php:790
+msgid "Icon"
+msgstr ""
+
+#: includes/an-interface-api.php:791
+msgid "Button"
+msgstr ""
+
+#: includes/an-interface-api.php:792
+msgid "Text"
+msgstr ""
+
+#: includes/an-interface-api.php:795 includes/an-interface-api.php:796
+#: includes/an-interface-api.php:797 includes/an-interface-api.php:798
+#: includes/an-interface-api.php:799 includes/an-interface-api.php:800
+#: includes/an-interface-api.php:801 includes/an-interface-api.php:802
+msgid "Style"
+msgstr ""
+
+#: includes/an-interface-api.php:805 includes/an-locations.php:132
+msgid "Top & Left"
+msgstr ""
+
+#: includes/an-interface-api.php:806 includes/an-locations.php:152
+msgid "Top & Center"
+msgstr ""
+
+#: includes/an-interface-api.php:807 includes/an-locations.php:140
+msgid "Top & Right"
+msgstr ""
+
+#: includes/an-interface-api.php:808 includes/an-locations.php:124
+msgid "Top & Site direction"
+msgstr ""
+
+#: includes/an-interface-api.php:809 includes/an-locations.php:128
+msgid "Top & Opposite site direction"
+msgstr ""
+
+#: includes/an-interface-api.php:810 includes/an-locations.php:110
+msgid "Bottom & Left"
+msgstr ""
+
+#: includes/an-interface-api.php:811 includes/an-locations.php:148
+msgid "Bottom & Center"
+msgstr ""
+
+#: includes/an-interface-api.php:812 includes/an-locations.php:117
+msgid "Bottom & Right"
+msgstr ""
+
+#: includes/an-interface-api.php:813 includes/an-locations.php:102
+msgid "Bottom & Site direction"
+msgstr ""
+
+#: includes/an-interface-api.php:814 includes/an-locations.php:106
+msgid "Bottom & Opposite site direction"
+msgstr ""
+
+#: includes/an-interface-api.php:818 includes/an-interface-api.php:1214
+msgid "Right"
+msgstr ""
+
+#: includes/an-interface-api.php:819 includes/an-interface-api.php:1215
+msgid "Left"
+msgstr ""
+
+#: includes/an-interface-api.php:822 includes/an-interface-api.php:1222
+msgid "Top"
+msgstr ""
+
+#: includes/an-interface-api.php:823 includes/an-interface-api.php:1223
+msgid "Bottom"
+msgstr ""
+
+#: includes/an-interface-api.php:840
+msgid "Text color"
+msgstr ""
+
+#: includes/an-interface-api.php:849
+msgid "Link color"
+msgstr ""
+
+#: includes/an-interface-api.php:858 includes/an-interface-api.php:1107
+msgid "Background color"
+msgstr ""
+
+#: includes/an-interface-api.php:867
+msgid "Background image"
+msgstr ""
+
+#: includes/an-interface-api.php:876
+msgid "Background size"
+msgstr ""
+
+#: includes/an-interface-api.php:886
+msgid "Background repeat"
+msgstr ""
+
+#: includes/an-interface-api.php:896
+msgid "Border color"
+msgstr ""
+
+#: includes/an-interface-api.php:905
+msgid "Border style"
+msgstr ""
+
+#: includes/an-interface-api.php:945
+msgid "Active shadow"
+msgstr ""
+
+#: includes/an-interface-api.php:956
+msgid "Shadow"
+msgstr ""
+
+#: includes/an-interface-api.php:968
+msgid "Enable"
+msgstr ""
+
+#: includes/an-interface-api.php:978
+msgid "Type"
+msgstr ""
+
+#: includes/an-interface-api.php:989
+msgid "Select close icon"
+msgstr ""
+
+#: includes/an-interface-api.php:1002
+msgid "Close text"
+msgstr ""
+
+#: includes/an-interface-api.php:1015
+msgid "Position"
+msgstr ""
+
+#: includes/an-interface-api.php:1026 includes/an-interface-api.php:1242
+#: includes/an-interface-api.php:1297 includes/an-interface-api.php:1350
+msgid "Horizontal position"
+msgstr ""
+
+#: includes/an-interface-api.php:1039
+msgid "Horizontal value"
+msgstr ""
+
+#: includes/an-interface-api.php:1050
+msgid "Horizontal position unit"
+msgstr ""
+
+#: includes/an-interface-api.php:1062 includes/an-interface-api.php:1260
+#: includes/an-interface-api.php:1314 includes/an-interface-api.php:1367
+msgid "Vertical position"
+msgstr ""
+
+#: includes/an-interface-api.php:1075
+msgid "Vertical value"
+msgstr ""
+
+#: includes/an-interface-api.php:1086
+msgid "Vertical position unit"
+msgstr ""
+
+#: includes/an-interface-api.php:1098
+msgid "Color"
+msgstr ""
+
+#: includes/an-interface-api.php:1142
+msgid "Trigger settings"
+msgstr ""
+
+#: includes/an-interface-api.php:1144
+msgid "Show notification"
+msgstr ""
+
+#: includes/an-interface-api.php:1145
+msgid "Close notification"
+msgstr ""
+
+#: includes/an-interface-api.php:1150
+msgid "On event - PRO"
+msgstr ""
+
+#: includes/an-interface-api.php:1151
+msgid "URL contains - PRO"
+msgstr ""
+
+#: includes/an-interface-api.php:1158 includes/an-interface-api.php:1277
+#: includes/an-interface-api.php:1330 includes/an-interface-api.php:1382
+msgid "Class"
+msgstr ""
+
+#: includes/an-interface-api.php:1159
+msgid "ID"
+msgstr ""
+
+#: includes/an-interface-api.php:1160
+msgid "Tag"
+msgstr ""
+
+#: includes/an-interface-api.php:1167
+msgid "Trigger action"
+msgstr ""
+
+#: includes/an-interface-api.php:1177
+msgid "Trigger type"
+msgstr ""
+
+#: includes/an-interface-api.php:1186
+msgid "Element tag / class / ID"
+msgstr ""
+
+#: includes/an-interface-api.php:1196
+msgid "Element name"
+msgstr ""
+
+#: includes/an-interface-api.php:1199
+msgid "You can enter multiple values separated by commas"
+msgstr ""
+
+#: includes/an-interface-api.php:1206
+msgid "Trigger description"
+msgstr ""
+
+#: includes/an-interface-api.php:1207
+msgid "Will appear when a trigger is selected on the notification settings page"
+msgstr ""
+
+#: includes/an-interface-api.php:1216 includes/an-interface-api.php:1224
+msgid "Center"
+msgstr ""
+
+#: includes/an-interface-api.php:1231 includes/an-interface-api.php:1286
+#: includes/an-interface-api.php:1339
+msgid "Width"
+msgstr ""
+
+#: includes/an-interface-api.php:1423
+msgid "Front order"
+msgstr ""
+
+#: includes/an-interface-api.php:1439 includes/an-interface-api.php:1453
+msgid "Trigger"
+msgstr ""
+
+#: includes/an-interface-api.php:1446 includes/an-interface-api.php:1459
+msgid "Delete"
+msgstr ""
+
+#: includes/an-interface-api.php:1465
+msgid "Add Trigger"
+msgstr ""
+
+#: includes/an-interface-api.php:1471 includes/an-interface-api.php:1478
+#: includes/an-triggers.php:26
+msgid "Triggers"
+msgstr ""
+
+#: includes/an-locations.php:25
+msgid "Locations"
+msgstr ""
+
+#: includes/an-locations.php:51
+msgid "AN Locations"
+msgstr ""
+
+#: includes/an-locations.php:60 includes/an-locations.php:67
+#: includes/an-locations.php:68
+msgid "AN Locations items"
+msgstr ""
+
+#: includes/an-locations.php:156
+msgid "Center & Left"
+msgstr ""
+
+#: includes/an-locations.php:160
+msgid "Center & Right"
+msgstr ""
+
+#: includes/an-locations.php:164
+msgid "Center & Center"
+msgstr ""
+
+#: includes/an-single.php:18 includes/an-single.php:30
+msgid "Active delay"
+msgstr ""
+
+#: includes/an-single.php:18 includes/an-single.php:30
+msgid "Showing in"
+msgstr ""
+
+#: includes/an-single.php:18 includes/an-single.php:30
+msgid "The notification is displayed"
+msgstr ""
+
+#: includes/an-single.php:27
+msgid "Notification preview"
+msgstr ""
+
+#: includes/an-single.php:32
+msgid "Appears on"
+msgstr ""
+
+#: includes/an-triggers.php:52
+msgid "AN Triggers"
+msgstr ""
+
+#: includes/an-triggers.php:61 includes/an-triggers.php:68
+#: includes/an-triggers.php:69
+msgid "AN Triggers items"
+msgstr ""
+
+#: includes/an-triggers.php:104
+msgid "Mouse leave from top"
+msgstr ""
+
+#: includes/an-triggers.php:105
+msgid "Suitable for the situation where the visitor leaves the site to the top of the browser with the mouse, for example to close the tab"
+msgstr ""

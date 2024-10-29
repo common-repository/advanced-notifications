@@ -1,0 +1,49 @@
+
+.eis-interface-settings {
+    float: right;
+}
+
+ul.tabs {
+    float: right;
+}
+
+.tab-content {
+    float: right;
+}
+
+.eis-meta-box .tab-content {
+    border-left: 0;
+    border-right: 1px solid #ccc;
+}
+
+.eis-language-slug {
+	float: right;
+}
+
+.eis-sidebar {
+    width: 270px;
+    float: right;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.submenu-row {
+    margin-left: 0px;
+	margin-right: 20px;
+}
+
+.submenu-row:before {
+    left: inherit;
+	right: -15px
+}
+
+.datepicker.dropdown-menu {
+    left: inherit!important;
+}
+
+/*--------------------------Responsive------------------------------*/
+
+@media screen and (max-width: 600px) {
+
+
+}

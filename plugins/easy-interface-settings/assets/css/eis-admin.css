@@ -1,0 +1,324 @@
+.eis-page-action {
+	display: inline-block;
+}
+
+.eis-children-hidden {
+	display: none;
+}
+
+ul.tabs {
+	box-sizing: border-box;
+	float: left;
+	width: 200px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f1f1f1;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+ul.tabs li + li {
+	border-top: 1px solid #ccc;
+}
+
+/* Float the list items side by side */
+ul.tabs li {
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+/* Style the links inside the list items */
+ul.tabs li a {
+    display: inline-block;
+    width: 100%;
+    color: black;
+    text-align: center;
+    padding: 10px 5px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    box-shadow: none;
+}
+
+.eis-page-container {
+    float: left;
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.eis-data-container {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: none;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.eis-data-container.open {
+    display: flex;
+}
+
+.eis-page-container h2 {
+	display: inline-block;
+}
+
+.eis-form {
+    width: 100%;
+    display: inline-block;
+    /* border: 1px solid #ccc; */
+}
+
+/* Change background color of links on hover */
+.eis-interface-settings ul.tabs li a:hover {
+	background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.eis-interface-settings ul.tabs li a:focus, .eis-interface-settings .active {
+	background-color: #ccc;
+}
+
+/* Style the tab content */
+.tab-content {
+    display: none;
+	float: left;
+	width: calc(100% - 200px);
+	box-sizing: border-box;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+}
+
+.eis-page-content {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+	padding: 6px 12px;
+	border: 1px solid #ccc;
+	margin: 0 0 6px 0;
+}
+
+.eis-meta-box .tab-content {
+    border: 0;
+    border-left: 1px solid #ccc;
+}
+
+.eis-interface-settings {
+	position: relative;
+    width: calc(100% - 300px);
+    float: left;
+}
+
+.eis-interface-settings.eis-meta-box {
+    width: 100%;
+}
+
+.eis-sidebar {
+    width: 300px;
+    float: left;
+}
+
+.eis-sidebar {
+    width: 270px;
+    float: left;
+    margin-left: 20px;
+}
+
+.eis-sidebar-box {
+    display: inline-block;
+    width: 100%;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.eis-sidebar-box-title {
+    display: inline-block;
+    border-bottom: 1px solid #cccccc;
+    width: 100%;
+}
+
+.image-preview {
+    max-width: 200px;
+}
+
+.image-preview-url {
+    max-width: 100%;
+}
+
+.eis-file-name {
+    float: left;
+    width: 100%;
+    line-break: anywhere;
+}
+
+.eis-date-container {
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.subject-line {
+    float: left;
+    width: 100%;
+    height: 1px;
+    background-color: #cccccc;
+}
+
+.eis-language-slug {
+	float: left;
+	width: 5%;
+}
+
+/*Gallery
+-------------------*/
+
+.eis-image-gallery-container {
+    display: inline-block;
+    padding: 2px;
+    width: 60px;
+    height: 60px;
+}
+
+.eis-image-gallery-container .eis-gallery-close {
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+.eis-image-gallery-container img {
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+/*LOADER
+--------------------------------------------------*/
+
+.eis-loader-container {
+    display: none;
+	float: right;
+	width: 100%;
+	height: 200px;
+}
+
+.eis-loader {
+    color: var(--maincolor);
+    font-size: 80px;
+    text-indent: -9999em;
+    overflow: hidden;
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    margin: -40px auto;
+    top: 50%;
+    position: relative;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-animation: load6 1.7s infinite ease, round 1.7s infinite ease;
+    animation: load6 1.7s infinite ease, round 1.7s infinite ease;
+}
+
+@-webkit-keyframes load6 {
+  0% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+  5%,
+  95% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+  10%,
+  59% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.087em -0.825em 0 -0.42em, -0.173em -0.812em 0 -0.44em, -0.256em -0.789em 0 -0.46em, -0.297em -0.775em 0 -0.477em;
+  }
+  20% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.338em -0.758em 0 -0.42em, -0.555em -0.617em 0 -0.44em, -0.671em -0.488em 0 -0.46em, -0.749em -0.34em 0 -0.477em;
+  }
+  38% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.377em -0.74em 0 -0.42em, -0.645em -0.522em 0 -0.44em, -0.775em -0.297em 0 -0.46em, -0.82em -0.09em 0 -0.477em;
+  }
+  100% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+}
+
+@keyframes load6 {
+  0% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+  5%,
+  95% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+  10%,
+  59% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.087em -0.825em 0 -0.42em, -0.173em -0.812em 0 -0.44em, -0.256em -0.789em 0 -0.46em, -0.297em -0.775em 0 -0.477em;
+  }
+  20% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.338em -0.758em 0 -0.42em, -0.555em -0.617em 0 -0.44em, -0.671em -0.488em 0 -0.46em, -0.749em -0.34em 0 -0.477em;
+  }
+  38% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.377em -0.74em 0 -0.42em, -0.645em -0.522em 0 -0.44em, -0.775em -0.297em 0 -0.46em, -0.82em -0.09em 0 -0.477em;
+  }
+  100% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em, 0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+}
+
+@-webkit-keyframes round {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes round {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.eis-page-loader {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 9999999;
+}
+
+/*--------------------------Responsive------------------------------*/
+
+@media screen and (max-width: 600px) {
+
+.eis-interface-settings {
+    width: 100%;
+}
+
+.eis-sidebar {
+    width: 100%;
+    float: left;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+
+}
